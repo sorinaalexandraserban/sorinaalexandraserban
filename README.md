@@ -1,11 +1,11 @@
-### Hi there, I'm Sorina! 👋
+# Hi there, I'm Sorina! 👋
 
 ## You can find me on:
 <a href = "https://www.linkedin.com/in/sorina-alexandra-%C8%99erban-58767b17b/">
-    <img src = "LinkedIn.png" alt="Linkedin" width = "auto" height="40px" align="center" title="LinkedIn"/>
+    <img src = "LinkedIn.png" alt="Linkedin" width = "auto" height="20px" align="center" title="LinkedIn"/>
 </a>
 <a href = "mailto:sorinaserban6582@gmail.com/">
-    <img src = "Gmail.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
+    <img src = "Gmail.png" alt="Email" width = "auto" height="20px" align="center"title="Email" />
 </a>
 
 ## Stats
