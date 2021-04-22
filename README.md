@@ -1,6 +1,7 @@
 ## Hi there, I'm Sorina! 👋
 
 # Stats
+
 <a href = "https://github.com/sorinaalexandraserban?tab=repositories">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=sorinaalexandraserban&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&card_width=50px" />
 </a>               
@@ -9,6 +10,7 @@
 </a>
 
 # Personal Projects
+
 </a>
 <a href = "https://github.com/sorinaalexandraserban/Android-CityGuideBrasov">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=sorinaalexandraserban&repo=Android-CityGuideBrasov&theme=onedark&hide_border" align = "center"/>
@@ -20,3 +22,18 @@
 </a>
 
 # University
+
+</a>
+<a href = "https://github.com/sorinaalexandraserban/DataStructures">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=sorinaalexandraserban&repo=DataStructures&theme=onedark&hide_border" align = "center"/>
+</a>
+
+</a>
+<a href = "https://github.com/sorinaalexandraserban/CTS_Seminar">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=sorinaalexandraserban&repo=CTS_Seminar&theme=onedark&hide_border" align = "center"/>
+</a>
+
+</a>
+<a href = "https://github.com/sorinaalexandraserban/CTS_Curs">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=sorinaalexandraserban&repo=CTS_Curs&theme=onedark&hide_border" align = "center"/>
+</a>
