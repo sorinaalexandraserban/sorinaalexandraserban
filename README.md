@@ -5,7 +5,7 @@
     <img src = "LinkedIn.png" alt="Linkedin" width = "auto" height="40px" align="center" title="LinkedIn"/>
 </a>
 <a href = "mailto:sorinaserban6582@gmail.com/">
-    <img src = "Logo/email.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
+    <img src = "Gmail.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
 </a>
 
 ## Stats
