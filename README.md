@@ -2,7 +2,7 @@
 
 ## You can find me on:
 <a href = "https://www.linkedin.com/in/sorina-alexandra-%C8%99erban-58767b17b/">
-    <img src = "Logo/linkedin2.png" alt="Linkedin" width = "auto" height="40px" align="center" title="LinkedIn"/>
+    <img src = "LinkedIn.png" alt="Linkedin" width = "auto" height="40px" align="center" title="LinkedIn"/>
 </a>
 <a href = "mailto:sorinaserban6582@gmail.com/">
     <img src = "Logo/email.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
