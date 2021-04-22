@@ -2,4 +2,4 @@
 
 [![Sorina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorinaalexandraserban)](https://github.com/sorinaalexandraserban/github-readme-stats)
 
-![Sorina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorinaalexandraserban&show_icons=true)
+![Sorina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorinaalexandraserban&show_icons=true&theme=onedark)
