@@ -11,11 +11,12 @@
 # Personal Projects
 </a>
 <a href = "https://github.com/sorinaalexandraserban/Android-CityGuideBrasov">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Android-CityGuideBrasov&theme=onedark&hide_border" align = "center"/>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=sorinaalexandraserban&repo=Android-CityGuideBrasov&theme=onedark&hide_border" align = "center"/>
 </a>
+
 </a>
 <a href = "https://github.com/sorinaalexandraserban/Windows-Forms-Project">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=Adriana-Giol&repo=Windows-Forms-Project&theme=onedark&hide_border" align = "center"/>
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=sorinaalexandraserban&repo=Windows-Forms-Project&theme=onedark&hide_border" align = "center"/>
 </a>
 
 # University
