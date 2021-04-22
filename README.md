@@ -1,6 +1,14 @@
-## Hi there, I'm Sorina! 👋
+### Hi there, I'm Sorina! 👋
 
-# Stats
+## You can find me on:
+<a href = "https://www.linkedin.com/in/sorina-alexandra-%C8%99erban-58767b17b/">
+    <img src = "Logo/linkedin2.png" alt="Linkedin" width = "auto" height="40px" align="center" title="LinkedIn"/>
+</a>
+<a href = "mailto:sorinaserban6582@gmail.com/">
+    <img src = "Logo/email.png" alt="Email" width = "auto" height="40px" align="center"title="Email" />
+</a>
+
+## Stats
 
 <a href = "https://github.com/sorinaalexandraserban?tab=repositories">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=sorinaalexandraserban&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&card_width=50px" />
@@ -9,7 +17,7 @@
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sorinaalexandraserban&langs_count=5&count_private=true&theme=onedark&layout=compact&card_width=250px" />
 </a>
 
-# Personal Projects
+## Personal Projects
 
 </a>
 <a href = "https://github.com/sorinaalexandraserban/Android-CityGuideBrasov">
@@ -21,7 +29,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=sorinaalexandraserban&repo=Windows-Forms-Project&theme=onedark&hide_border" align = "center"/>
 </a>
 
-# University
+## University
 
 </a>
 <a href = "https://github.com/sorinaalexandraserban/DataStructures">
