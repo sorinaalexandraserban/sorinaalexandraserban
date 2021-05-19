@@ -16,32 +16,3 @@
 <a href = "https://github.com/sorinaalexandraserban?tab=repositories">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sorinaalexandraserban&langs_count=5&count_private=true&theme=onedark&layout=compact&card_width=250px" />
 </a>
-
-## Personal Projects
-
-</a>
-<a href = "https://github.com/sorinaalexandraserban/Android-CityGuideBrasov">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=sorinaalexandraserban&repo=Android-CityGuideBrasov&theme=onedark&hide_border" align = "center"/>
-</a>
-
-</a>
-<a href = "https://github.com/sorinaalexandraserban/Windows-Forms-Project">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=sorinaalexandraserban&repo=Windows-Forms-Project&theme=onedark&hide_border" align = "center"/>
-</a>
-
-## University
-
-</a>
-<a href = "https://github.com/sorinaalexandraserban/DataStructures">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=sorinaalexandraserban&repo=DataStructures&theme=onedark&hide_border" align = "center"/>
-</a>
-
-</a>
-<a href = "https://github.com/sorinaalexandraserban/CTS_Seminar">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=sorinaalexandraserban&repo=CTS_Seminar&theme=onedark&hide_border" align = "center"/>
-</a>
-
-</a>
-<a href = "https://github.com/sorinaalexandraserban/CTS_Curs">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=sorinaalexandraserban&repo=CTS_Curs&theme=onedark&hide_border" align = "center"/>
-</a>
